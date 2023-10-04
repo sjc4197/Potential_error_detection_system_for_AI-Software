@@ -6,5 +6,3 @@
 Figure 1. Algoruthm overview
 
 <hr>
-
-dfsdfsdfs
