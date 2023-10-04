@@ -5,7 +5,7 @@ Figure 1. Algoruthm overview
 
 <hr>
 
-## 데이터 링크
+## Data link
 
 > - https://drive.google.com/drive/folders/1HnjCVTB_s-3TLD-md57ER9yVaNSMV_c8
 
