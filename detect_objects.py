@@ -16,7 +16,7 @@ bbox_img_folder_path = '/content/drive/MyDrive/test/light_image' #박스가 쳐�
 def detect_objects(weight_path, image_folder_path, text_folder_path, bbox_image_folder_path):
     #모델 로드 
     model = torch.hub.load('ultralytics/yolov5', 'custom', path=weight_path)
-    #테스트할 이미지 확장자 이름 바꾸시면 됩니다 현재 jpg, png 
+    #테스트할 이미지 확장자 이름 바꾸시면 됩니다. 현재 jpg, png 이미지 인식 
     image_files = [f for f in Path(image_folder_path).rglob('*') if f.suffix in ['.jpg', '.png']]
     #텍스트 파일은 첫 행에는 true, false로 저장되고 두 번째 행에는 인원 수가 저장됩니다. 
     for image_file in image_files:
