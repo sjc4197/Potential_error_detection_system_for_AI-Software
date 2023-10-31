@@ -7,8 +7,8 @@ Figure 1. Algoruthm overview
 
 ## Data link
 
-> - https://drive.google.com/drive/folders/1HnjCVTB_s-3TLD-md57ER9yVaNSMV_c8
+> - train sin : https://drive.google.com/drive/folders/1HnjCVTB_s-3TLD-md57ER9yVaNSMV_c8
 
-> - https://drive.google.com/drive/folders/15mneyCr9t2_xwawC-Ua8lpG74ldV04JE
+> - train light : https://drive.google.com/drive/folders/15mneyCr9t2_xwawC-Ua8lpG74ldV04JE
 
-> - https://drive.google.com/drive/folders/1vMD7A64pB5Il7-ToFl4OWSofqWSMhRYV
+> - people : https://drive.google.com/drive/folders/1vMD7A64pB5Il7-ToFl4OWSofqWSMhRYV
