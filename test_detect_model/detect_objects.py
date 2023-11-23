@@ -4,7 +4,6 @@ import os
 from pathlib import Path
 import numpy as np
 
-#혹시 필요하실까봐 박스 쳐진 이미지 파일도 생성되게 만들었습니다.
 #텍스트 파일 이름은 원본 이미지와 같게 만들어지게 작성 됐고, 이미지 파일 이름은 _bbox가 추가된 이름으로 저장됩니다.
 #가중치, 사진이 저장돼있는 이미지 폴더, true와 사람 명 수 이름이 작성될 텍스트 폴더 경로, 박스가 쳐지고 나올 폴더 경로 
 weight_path = '/content/drive/MyDrive/test/best.pt' #가중치 경로
